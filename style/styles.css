@@ -29,7 +29,7 @@ body {
     z-index: 100;
     width: 100%;
     height: calc(var(--index) * 20);
-    background-image: url(/img/Bushes1.png);
+    /* background-image: url(/img/Bushes1.png); */
     bottom: calc(var(--index) * -7);
     background-size: cover;
     background-repeat: no-repeat;
